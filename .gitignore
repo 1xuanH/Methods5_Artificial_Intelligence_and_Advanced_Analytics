@@ -1,0 +1,4 @@
+whisper_models/
+whisper_models/
+.DS_Store
+__pycache__/
